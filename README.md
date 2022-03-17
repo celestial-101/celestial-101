@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @celestial-101
 - 👀 I’m interested in java development.
-- 🌱 I’m currently learning Advance java.
+- 🌱 I’m currently building projects on Advance java.
 - 💞️ I’m looking to collaborate on java projects.
 - 📫 How to reach me -raviranjan630@gmail.com
 
